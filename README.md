@@ -1,2 +1,2 @@
-# HTML-CSS-Demo-Project-
-Basic Learning - Home, Login &amp; Signup Page.
+# Demo-Project
+HTML CSS Basic Learning - Home, Login &amp; Signup Page.
